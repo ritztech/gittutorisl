@@ -1,0 +1,13 @@
+ALTER TABLE `m_master_store` ADD `tax_type` INT NOT NULL ;
+
+ALTER TABLE `sell_items` ADD `tax_type` VARCHAR(50) NOT NULL ;
+
+ALTER TABLE `sell_items_2` ADD `tax_type` VARCHAR(50) NOT NULL ;
+
+ALTER TABLE `sell_invoice` ADD `gst_5` INT NOT NULL , ADD `gst_12` INT NOT NULL , ADD `gst_18` INT NOT NULL , ADD `gst_28` INT NOT NULL ;
+
+ALTER TABLE `sell_invoice_2` ADD `gst_5` INT NOT NULL , ADD `gst_12` INT NOT NULL , ADD `gst_18` INT NOT NULL , ADD `gst_28` INT NOT NULL 
+
+
+
+

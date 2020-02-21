@@ -1,0 +1,4 @@
+update for dery fruits---
+
+
+ALTER TABLE `purchase_item` ADD `weight` VARCHAR(20) NOT NULL ;

@@ -1,0 +1,135 @@
+.head1
+{
+
+padding-left:30px;padding-bottom:5px;width:1200px;
+
+}
+
+.leftdiv
+{
+background-color:#999999;height:840px;width:130px;float:left;
+}
+
+.center_page
+{
+background-color:white;height:840px;width:1060px;float:left;
+}
+
+
+.empleftDiv{
+	font-family:Verdana, Arial, Helvetica, sans-serif ;
+	font-size:12px;
+	font-weight:bold;
+}
+.emprightDiv{
+	margin-left: 105px;
+	margin-top: -15px;
+}
+
+
+
+.empleft2Div{
+	font-family:Verdana, Arial, Helvetica, sans-serif ;
+	font-size:12px;
+	font-weight:bold;
+	margin-left: 370px;
+	margin-top: -20px;
+}
+.empright2Div{
+	margin-left: 405px;
+	margin-top: -125px;
+}
+
+
+#empcontainer {
+margin-top:80px;
+margin-left:15%;
+margin-right:auto;
+margin-bottom:20px;
+} 
+
+#logincontainer {
+margin-top:80px;
+margin-left:35%;
+margin-right:auto;
+margin-bottom:20px;
+} 
+
+#purchasecontainer {
+margin-top:-60px;
+margin-left:15%;
+margin-right:auto;
+margin-bottom:20px;
+} 
+
+
+#p1itemcontainer {
+margin-top:-25px;
+margin-left:12%;
+margin-right:auto;
+margin-bottom:20px;
+} 
+
+#p2itemcontainer {
+margin-top:-110px;
+margin-left:30%;
+margin-right:auto;
+margin-bottom:10px;
+} 
+
+
+.350
+{
+padding-left:440px
+}
+
+
+
+.360
+{
+padding-left:440px
+}
+
+.450
+{
+background-color:#FFA500;
+height:100px;
+width:1300px;
+float:top;
+
+
+}
+
+.451
+{
+background-color:#FFD700;
+height:500px;
+width:100px;
+float:left;
+}
+
+
+
+.452
+{
+background-color:#FFD700;
+height:400px;
+width:400px;
+float:center;
+}
+
+
+.myTable { background-color:#999999  ;color:#FFFFFF;;border-collapse:collapse; }
+
+
+.noPrint {
+    visibility: hidden ;
+}
+
+
+.submenu {
+color:black; font-weight:bold;height: 30px; width: 130px; font:"Times New Roman", Times, serif; font-size:14px;
+
+
+}
+

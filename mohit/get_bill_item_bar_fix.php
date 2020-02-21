@@ -1,0 +1,1 @@
+<?phpinclude('config.php');$id=$_GET["q"];$result12 = mysql_query("SELECT `id`, `desc`, `barcode` FROM `m_master_store` WHERE barcode = '$id'");$row12 = mysql_fetch_array($result12);$v1= $row12['id'];$v2= $row12['desc'];$v3= $row12['barcode'];echo $v1 .",". $v2.",". $v3;mysql_close($dbConn);?> 
