@@ -1,6 +1,8 @@
 <?php
 $con = mysqli_connect("localhost","root","sudhir","dryfruits");
 
+echo "test new change sudhir";
+
 $tables = array();
 $query = mysqli_query($con, 'SHOW TABLES');
 while($row = mysqli_fetch_row($query)){
